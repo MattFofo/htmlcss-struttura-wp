@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-
+*+*{
+    margin: 20px auto;
+}
 
 header:first-child{
     max-width: 1000px;
@@ -12,4 +14,21 @@ header:first-child{
     margin: 20px auto;
     background-color: pink;
 }
+
+
+.gold{
+    max-width: 1000px;
+    height: 350px;
+    background-color: gold;
+
+}
+
+
+.container-blue{
+    max-width: 1000px;
+    height: 350px;
+    background-color: blue;
+
+}
+
 
